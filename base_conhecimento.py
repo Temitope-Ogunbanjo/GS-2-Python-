@@ -3,6 +3,7 @@ from orientacao import Orientacao
 from helpers import Palavras
 from helpers import Normalizar
 from helpers import Normalizar_Lista
+from data.pontuacoes import Configuracoes
 
 class BaseConhecimento:
     def __init__(self, Path):
@@ -53,11 +54,11 @@ class BaseConhecimento:
 
         for I in PalavrasChave:
             if I in Texto:
-                Pontos += 3
+                Pontos += Configuracoes["Keyword"]
 
         for I in Palavras(Texto):
             if len(I) > 4 and I in Titulo:
-                Pontos += 1
+                Pontos += Configuracoes["Titulo"]
 
         return Pontos
                 
