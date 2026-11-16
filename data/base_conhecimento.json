@@ -1,0 +1,408 @@
+[
+    {
+        "id": 1,
+        "categoria": "Cadastro e Título de Eleitor",
+        "titulo": "Com quantos anos posso tirar o título de eleitor e começar a votar?",
+        "palavras_chave": [
+            "idade mínima",
+            "voto facultativo",
+            "primeiro título",
+            "título inicial",
+            "primeira vez"
+        ],
+        "resposta": "O voto é facultativo (opcional) para jovens de 16 e 17 anos. Você pode tirar o título a partir dos 15 anos, desde que complete 16 anos até a data do primeiro turno da eleição. A partir dos 18 anos, o voto torna-se obrigatório.",
+        "documentos": [
+            "Documento com foto",
+            "Comprovante de residência"
+        ],
+        "onde": "Site do TSE (Autoatendimento Eleitoral) ou Cartório Eleitoral",
+        "fonte": "https://www.tse.jus.br",
+        "verificado_em": "2026-11-15"
+    },
+    {
+        "id": 2,
+        "categoria": "Cadastro e Título de Eleitor",
+        "titulo": "Como tirar o primeiro título de eleitor pela internet?",
+        "palavras_chave": [
+            "alistamento eleitoral",
+            "primeiro título",
+            "primeira vez",
+            "título online",
+            "autoatendimento"
+        ],
+        "resposta": "O pedido pode ser feito online pelo sistema de Autoatendimento Eleitoral no site do TSE. Basta preencher o formulário, anexar fotos dos documentos e enviar uma foto segurando o documento de identificação ao lado do rosto.",
+        "documentos": [
+            "RG / CIN",
+            "Comprovante de residência",
+            "Foto Segurando o Documento",
+            "Certificado de quitação militar"
+        ],
+        "onde": "Site do TSE (Autoatendimento Eleitoral)",
+        "fonte": "https://www.tse.jus.br",
+        "verificado_em": "2026-11-15"
+    },
+    {
+        "id": 3,
+        "categoria": "Cadastro e Título de Eleitor",
+        "titulo": "Preciso ir ao cartório eleitoral para cadastrar a biometria?",
+        "palavras_chave": [
+            "cadastro biométrico",
+            "coleta digitais",
+            "biometria",
+            "cartório eleitoral"
+        ],
+        "resposta": "Depende. Se você já tiver seus dados biométricos cadastrados na base da Justiça Eleitoral (como a Carteira de Identidade Nacional ou CNH), não precisa ir presencialmente. Caso contrário, o sistema informará a necessidade de agendar atendimento presencial.",
+        "documentos": [
+            "Documento com foto",
+            "Comprovante de residência",
+            "Protocolo de atendimento"
+        ],
+        "onde": "Cartório Eleitoral ou Postos de Atendimento da Justiça Eleitoral",
+        "fonte": "https://www.tse.jus.br",
+        "verificado_em": "2026-11-15"
+    },
+    {
+        "id": 4,
+        "categoria": "Cadastro e Título de Eleitor",
+        "titulo": "Qual é o prazo limite para tirar o título antes das eleições?",
+        "palavras_chave": [
+            "prazo título",
+            "prazo",
+            "antes das eleições",
+            "fechamento cadastro",
+            "data limite"
+        ],
+        "resposta": "O cadastro eleitoral é fechado 150 dias antes da data do primeiro turno das eleições (geralmente no início de maio em anos eleitorais). Após essa data, não é possível emitir o primeiro título nem mudar o local de votação.",
+        "documentos": [],
+        "onde": "Site do TSE ou Cartório Eleitoral",
+        "fonte": "https://www.tse.jus.br",
+        "verificado_em": "2026-11-15"
+    },
+    {
+        "id": 5,
+        "categoria": "Cadastro e Título de Eleitor",
+        "titulo": "Como baixar e ativar o aplicativo e-Título no celular?",
+        "palavras_chave": [
+            "aplicativo e-Título",
+            "título digital",
+            "versão mobile"
+        ],
+        "resposta": "Basta baixar o app oficial 'e-Título' na loja do seu smartphone (Android ou iOS), inserir seu nome completo, data de nascimento, CPF ou número do título e nomes dos pais.",
+        "documentos": [
+            "CPF",
+            "Título Eleitoral"
+        ],
+        "onde": "Aplicativo e-Título (Google Play ou App Store)",
+        "fonte": "https://www.tse.jus.br",
+        "verificado_em": "2026-11-15"
+    },
+    {
+        "id": 6,
+        "categoria": "Preparação e Dia da Votação",
+        "titulo": "Como consultar onde fica a minha zona e seção eleitoral?",
+        "palavras_chave": [
+            "local de votação",
+            "zona eleitoral",
+            "seção eleitoral",
+            "onde votar"
+        ],
+        "resposta": "Você pode consultar o endereço completo, além do número da zona e da seção, diretamente na tela inicial do aplicativo e-Título ou na área de Autoatendimento Eleitoral no site do TSE.",
+        "documentos": [
+            "CPF / Título de Eleitor"
+        ],
+        "onde": "Aplicativo e-Título ou Site do TSE",
+        "fonte": "https://www.tse.jus.br",
+        "verificado_em": "2026-11-15"
+    },
+    {
+        "id": 7,
+        "categoria": "Preparação e Dia da Votação",
+        "titulo": "Quais documentos posso levar no dia da votação?",
+        "palavras_chave": [
+            "documentos votação",
+            "identificação oficial",
+            "dia da eleição",
+            "quais documentos levar"
+        ],
+        "resposta": "Você deve levar um documento oficial com foto. São aceitos: e-Título (apenas se tiver foto), RG, Carteira de Identidade Nacional (CIN), Passaporte, Carteira de Trabalho, CNH ou certificado de reservista. Certidão de nascimento ou casamento não são aceitas.",
+        "documentos": [
+            "e-Título (c/ foto)",
+            "RG ou CIN",
+            "CNH",
+            "Passaporte",
+            "Carteira de Trabalho"
+        ],
+        "onde": "Seção Eleitoral (Local de Votação)",
+        "fonte": "https://www.tse.jus.br",
+        "verificado_em": "2026-11-15"
+    },
+    {
+        "id": 8,
+        "categoria": "Preparação e Dia da Votação",
+        "titulo": "Posso votar usando apenas o celular sem documento físico?",
+        "palavras_chave": [
+            "votar com celular",
+            "e-Título sem foto",
+            "documento digital"
+        ],
+        "resposta": "Sim, desde que o seu e-Título exiba a sua fotografia na tela (o que acontece se você já tiver biometria cadastrada). Caso o aplicativo apareça sem foto, é obrigatório levar também um documento físico oficial com foto.",
+        "documentos": [
+            "Aplicativo e-Título atualizado",
+            "Documento oficial com foto (se o app não tiver foto)"
+        ],
+        "onde": "Seção Eleitoral",
+        "fonte": "https://www.tse.jus.br",
+        "verificado_em": "2026-11-15"
+    },
+    {
+        "id": 9,
+        "categoria": "Preparação e Dia da Votação",
+        "titulo": "Posso entrar na cabine de votação com o telefone celular?",
+        "palavras_chave": [
+            "celular na cabine",
+            "sigilo do voto",
+            "proibição eletrônicos"
+        ],
+        "resposta": "Não. É proibido entrar na cabine de votação com celular, câmera, fones de ouvido ou qualquer aparelho que possa comprometer o sigilo do voto.",
+        "documentos": [],
+        "onde": "Seção Eleitoral",
+        "fonte": "https://www.tse.jus.br",
+        "verificado_em": "2026-11-15"
+    },
+    {
+        "id": 10,
+        "categoria": "Preparação e Dia da Votação",
+        "titulo": "Qual é o horário de funcionamento das seções eleitorais?",
+        "palavras_chave": [
+            "horário votação",
+            "abertura urnas",
+            "horário de Brasília"
+        ],
+        "resposta": "A votação acontece das 8h às 17h, seguindo sempre o horário oficial de Brasília em todo o território nacional. Quem estiver na fila às 17h recebe uma senha dos mesários e tem o direito de votar garantido.",
+        "documentos": [
+            "Documento oficial com foto"
+        ],
+        "onde": "Seção Eleitoral",
+        "fonte": "https://www.tse.jus.br",
+        "verificado_em": "2026-11-15"
+    },
+    {
+        "id": 11,
+        "categoria": "Urna, Regras e Pós-Eleição",
+        "titulo": "Qual é a ordem de votação na urna eletrônica?",
+        "palavras_chave": [
+            "ordem votação",
+            "cargos eleição",
+            "urna eletrônica",
+            "eleições gerais",
+            "deputado",
+            "presidente",
+            "governador",
+            "senador",
+            "prefeito"
+        ],
+        "resposta": "Nas eleições gerais (Presidente, Governador, Senador e Deputados), a ordem é: Deputado Federal (4 dígitos), Deputado Estadual ou Distrital (5 dígitos), Senador (3 dígitos), Governador (2 dígitos) e Presidente (2 dígitos). Nas eleições municipais, vota-se primeiro para Vereador (5 dígitos) e depois para Prefeito (2 dígitos).",
+        "documentos": [
+            "Cola eleitoral em papel (opcional)"
+        ],
+        "onde": "Urna Eletrônica",
+        "fonte": "https://www.tse.jus.br",
+        "verificado_em": "2026-11-15"
+    },
+    {
+        "id": 12,
+        "categoria": "Urna, Regras e Pós-Eleição",
+        "titulo": "Posso levar uma 'colinha' com os números dos meus candidatos?",
+        "palavras_chave": [
+            "cola eleitoral",
+            "números candidatos",
+            "anotação papel"
+        ],
+        "resposta": "Sim, e a Justiça Eleitoral recomenda. Você pode levar anotado em um pedaço de papel os números dos seus candidatos para agilizar o voto na cabine. Só não é permitido usar o celular para consultar os números dentro da cabine.",
+        "documentos": [
+            "Cola eleitoral impressa ou manuscrita"
+        ],
+        "onde": "Urna Eletrônica",
+        "fonte": "https://www.tse.jus.br",
+        "verificado_em": "2026-11-15"
+    },
+    {
+        "id": 13,
+        "categoria": "Urna, Regras e Pós-Eleição",
+        "titulo": "Qual é a diferença entre voto em branco e voto nulo?",
+        "palavras_chave": [
+            "voto branco",
+            "voto nulo",
+            "votos válidos"
+        ],
+        "resposta": "Ambos são inválidos, não vão para nenhum candidato ou partido e servem apenas para estatística. O voto em branco ocorre ao apertar a tecla 'Branco' e 'Confirma'; o voto nulo acontece ao digitar um número inexistente (como 00) e apertar 'Confirma'.",
+        "documentos": [],
+        "onde": "Urna Eletrônica",
+        "fonte": "https://www.tse.jus.br",
+        "verificado_em": "2026-11-15"
+    },
+    {
+        "id": 14,
+        "categoria": "Urna, Regras e Pós-Eleição",
+        "titulo": "Tenho 16 ou 17 anos, tirei o título, mas não fui votar. Preciso justificar?",
+        "palavras_chave": [
+            "justificativa eleitoral",
+            "voto facultativo",
+            "ausência votação"
+        ],
+        "resposta": "Não. Como o voto é facultativo para menores de 18 anos, você não precisa justificar a ausência nem pagará multa caso não compareça às urnas. A obrigação de votar ou justificar só começa após completar 18 anos.",
+        "documentos": [],
+        "onde": "Não se aplica (isento de justificativa)",
+        "fonte": "https://www.tse.jus.br",
+        "verificado_em": "2026-11-15"
+    },
+    {
+        "id": 15,
+        "categoria": "Urna, Regras e Pós-Eleição",
+        "titulo": "O que fazer se eu completar 18 anos e não puder comparecer no dia da eleição?",
+        "palavras_chave": [
+            "justificar voto",
+            "multa eleitoral",
+            "sistema Justifica"
+        ],
+        "resposta": "Se você já tem 18 anos ou mais e estiver fora do seu domicílio eleitoral no dia da votação, deve justificar a ausência pelo aplicativo e-Título (via geolocalização) no horário da eleição. Caso não justifique no dia, terá até 60 dias após cada turno para justificar online com documento que comprove o motivo da falta.",
+        "documentos": [
+            "Aplicativo e-Título ou documento comprobatório da ausência"
+        ],
+        "onde": "Aplicativo e-Título ou Sistema Justifica no site do TSE",
+        "fonte": "https://www.tse.jus.br",
+        "verificado_em": "2026-11-15"
+    },
+    {
+        "id": 16,
+        "categoria": "Urna, Regras e Pós-Eleição",
+        "titulo": "O que fazer se eu perdi o dia ou o horário da votação?",
+        "palavras_chave": ["perdi a votação", "justificar pós-eleição", "prazo justificativa"],
+        "resposta": "Se você tem 18 anos ou mais e não votou nem justificou no dia da eleição (das 8h às 17h), tem até 60 dias após cada turno para apresentar a justificativa pós-eleição anexando um documento que comprove o motivo da ausência (como atestado médico ou comprovante de viagem), que passará pela análise do juiz eleitoral. Se perder esse prazo de 60 dias ou tiver o pedido recusado, basta emitir e pagar a multa eleitoral (R$ 3,51 por turno) via Pix, cartão ou boleto (GRU) para ficar em dia com a Justiça Eleitoral. Caso tenha 16 ou 17 anos, o voto é facultativo e você não precisa fazer nada.",
+        "documentos": ["Documento oficial com foto", "Comprovante do motivo da ausência (atestado médico, passagem, etc., se dentro dos 60 dias)"],
+        "onde": "Aplicativo e-Título, Autoatendimento Eleitoral (site do TSE) ou Cartório Eleitoral",
+        "fonte": "https://www.tse.jus.br/servicos-eleitorais/justificativa-eleitoral",
+        "verificado_em": "2026-11-15"
+    },
+    {
+        "id": 17,
+        "categoria": "Urna, Regras e Pós-Eleição",
+        "titulo": "Em quem eu deveria votar nas eleições?",
+        "palavras_chave": ["em quem votar", "escolha de candidato", "como escolher"],
+        "resposta": "O assistente e a Justiça Eleitoral não indicam candidatos, partidos ou coligações, pois o voto é livre e secreto. Para decidir em quem votar, pesquise as propostas e o histórico dos candidatos, acompanhe debates, verifique os planos de governo oficiais registrados no TSE e escolha aquele que melhor representa os seus valores e as causas que você apoia para a sua cidade ou país.",
+        "documentos": ["Plano de governo oficial dos candidatos (disponível no site do TSE)"],
+        "onde": "DivulgaCandContas (Site do TSE) ou portais de notícias confiáveis",
+        "fonte": "https://www.tse.jus.br | Bom Senso" ,
+        "verificado_em": "2026-11-15"
+    },
+    {
+    "id": 18,
+    "categoria": "Cadastro e Título de Eleitor",
+    "titulo": "Até quando posso tirar o primeiro título de eleitor antes da eleição?",
+    "palavras_chave": ["prazo título", "fechamento cadastro", "data limite"],
+    "resposta": "O cadastro eleitoral fecha 150 dias antes da data do primeiro turno das eleições (geralmente no início de maio em anos eleitorais). Após essa data, o sistema é fechado e não é possível emitir o primeiro título ou alterar o local de votação para o pleito daquele ano.",
+    "documentos": ["RG ou CIN", "Comprovante de residência"],
+    "onde": "Site do TSE (Autoatendimento Eleitoral) ou Cartório Eleitoral",
+    "fonte": "https://www.tse.jus.br",
+    "verificado_em": "2026-11-15"
+  },
+  {
+    "id": 19,
+    "categoria": "Urna, Regras e Pós-Eleição",
+    "titulo": "Com 16 ou 17 anos sou obrigado a votar?",
+    "palavras_chave": ["voto facultativo", "idade mínima", "obrigação de votar"],
+    "resposta": "Não. Para os jovens de 16 e 17 anos, o voto é facultativo (opcional). Você só passa a ter a obrigação legal de votar a partir dos 18 anos completos.",
+    "documentos": [],
+    "onde": "Não se aplica",
+    "fonte": "https://www.tse.jus.br",
+    "verificado_em": "2026-11-15"
+  },
+  {
+    "id": 20,
+    "categoria": "Urna, Regras e Pós-Eleição",
+    "titulo": "O que acontece se eu não for votar e tiver mais de 18 anos?",
+    "palavras_chave": ["falta votação", "multa eleitoral", "justificativa"],
+    "resposta": "Se você tem 18 anos ou mais e falta à votação sem justificar dentro do prazo de 60 dias, fica em débito com a Justiça Eleitoral. Isso gera uma multa de valor baixo (R$ 3,51 por turno) e impede de emitir passaporte, RG, tomar posse em cargo público, renovar matrícula em instituição de ensino oficial ou obter certidão de quitação eleitoral.",
+    "documentos": ["Comprovante de pagamento da multa ou justificativa"],
+    "onde": "Aplicativo e-Título ou Site do TSE",
+    "fonte": "https://www.tse.jus.br",
+    "verificado_em": "2026-11-15"
+  },
+  {
+    "id": 21,
+    "categoria": "Preparação e Dia da Votação",
+    "titulo": "Posso votar usando apenas o celular com o aplicativo e-Título?",
+    "palavras_chave": ["votar com celular", "e-Título digital", "documento no app"],
+    "resposta": "Sim, você pode votar usando apenas o celular, desde que o seu aplicativo e-Título exiba a sua foto (o que acontece se você já fez o cadastramento biométrico). Caso o app esteja sem foto, será obrigatório apresentar um documento oficial de identidade físico com foto.",
+    "documentos": ["Aplicativo e-Título atualizado", "Documento oficial com foto (se o app não tiver foto)"],
+    "onde": "Seção Eleitoral",
+    "fonte": "https://www.tse.jus.br",
+    "verificado_em": "2026-11-15"
+  },
+  {
+    "id": 22,
+    "categoria": "Urna, Regras e Pós-Eleição",
+    "titulo": "O voto nulo ou em branco cancela a eleição se ultrapassar 50%?",
+    "palavras_chave": ["voto nulo", "voto branco", "mito anulação"],
+    "resposta": "Não. Esse é um mito muito comum. Os votos brancos e nulos são considerados apenas 'votos inválidos' e servem exclusivamente para fins estatísticos. Eles não têm o poder de anular a eleição, independentemente da porcentagem que alcancem, pois a contagem oficial para definir o vencedor considera apenas os votos válidos.",
+    "documentos": [],
+    "onde": "Urna Eletrônica",
+    "fonte": "https://www.tse.jus.br",
+    "verificado_em": "2026-11-15"
+  },
+  {
+    "id": 23,
+    "categoria": "Preparação e Dia da Votação",
+    "titulo": "Posso entrar na cabine de votação com o telefone celular?",
+    "palavras_chave": ["celular na cabine", "sigilo do voto", "proibido eletrônicos"],
+    "resposta": "Não. É expressamente proibido entrar na cabine de votação com celulares, câmeras, filmadoras ou qualquer dispositivo eletrônico. O objetivo é garantir o sigilo absoluto do voto. Antes de entrar na cabine, você deve desligar o aparelho e deixá-lo na mesa com os mesários.",
+    "documentos": [],
+    "onde": "Seção Eleitoral",
+    "fonte": "https://www.tse.jus.br",
+    "verificado_em": "2026-11-15"
+  },
+  {
+    "id": 24,
+    "categoria": "Preparação e Dia da Votação",
+    "titulo": "Como sei qual é o meu local de votação e número da seção?",
+    "palavras_chave": ["local de votação", "zona eleitoral", "onde votar"],
+    "resposta": "Você pode consultar facilmente o endereço completo do seu local de votação, bem como a sua zona e seção eleitoral, acessando o aplicativo e-Título ou preenchendo a consulta de local de votação no site oficial do TSE com seus dados pessoais.",
+    "documentos": ["Número do Título de Eleitor ou CPF"],
+    "onde": "Aplicativo e-Título ou Site do TSE",
+    "fonte": "https://www.tse.jus.br",
+    "verificado_em": "2026-11-15"
+  },
+  {
+    "id": 25,
+    "categoria": "Preparação e Dia da Votação",
+    "titulo": "Posso ir votar usando a camisa do meu candidato ou partido?",
+    "palavras_chave": ["camisa de candidato", "manifestação política", "boca de urna"],
+    "resposta": "No dia da eleição, o uso de bandeiras, broches, dísticos e adesivos é permitido apenas de forma silenciosa e individual pelo eleitor (manifestação silenciosa). No entanto, o uso de roupas padronizadas, camisas de partidos ou bandeiras coletivas configuram crime de aglomeração ou propaganda irregular (boca de urna) no local de votação.",
+    "documentos": [],
+    "onde": "Seção Eleitoral",
+    "fonte": "https://www.tse.jus.br",
+    "verificado_em": "2026-11-15"
+  },
+  {
+    "id": 26,
+    "categoria": "Urna, Regras e Pós-Eleição",
+    "titulo": "Quem tem 18 anos ou mais e não votou pode fazer faculdade ou matrícula?",
+    "palavras_chave": ["matrícula faculdade", "cobrança título", "universidade"],
+    "resposta": "Depende da instituição. De acordo com a lei federal, a prova de quitação eleitoral é exigida para matrícula em instituições de ensino superiores oficiais ou reconhecidas. Se você completou 18 anos, não votou e não regularizou sua situação junto à Justiça Eleitoral (pagando a multa ou justificando), poderá ter problemas para efetivar a matrícula ou colar grau na faculdade.",
+    "documentos": ["Certidão de Quitação Eleitoral ou Comprovante de Regularidade"],
+    "onde": "Secretaria Acadêmica da Faculdade ou Cartório Eleitoral",
+    "fonte": "https://www.tse.jus.br",
+    "verificado_em": "2026-11-15"
+  },
+  {
+    "id": 27,
+    "categoria": "Cadastro e Título de Eleitor",
+    "titulo": "Onde vejo o que cada candidato defende e suas propostas?",
+    "palavras_chave": ["propostas candidato", "plano de governo", "DivulgaCandContas"],
+    "resposta": "Você pode consultar todas as propostas oficiais, planos de governo detalhados, bens declarados e histórico dos candidatos através do sistema oficial DivulgaCandContas, disponibilizado gratuitamente no portal do TSE, além de acompanhar debates e portais de notícias confiáveis.",
+    "documentos": [],
+    "onde": "Portal DivulgaCandContas (Site do TSE)",
+    "fonte": "https://www.tse.jus.br",
+    "verificado_em": "2026-11-15"
+  }
+]

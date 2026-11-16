@@ -1,0 +1,92 @@
+[
+    {
+        "data": "2026-11-15",
+        "origem": "Cadastro e Título de Eleitor",
+        "pergunta": "Com quantos anos posso tirar o título de eleitor?",
+        "id": 1,
+        "ajudou": "s",
+        "encontrou": true,
+        "tempo": 7.6
+    },
+    {
+        "data": "2026-11-15",
+        "origem": "Cadastro e Título de Eleitor",
+        "pergunta": "Como faço para tirar o primeiro título pela internet?",
+        "id": 2,
+        "ajudou": "s",
+        "encontrou": true,
+        "tempo": 2.6
+    },
+    {
+        "data": "2026-11-15",
+        "origem": "Preparação e Dia da Votação",
+        "pergunta": "Posso votar usando apenas o aplicativo e-Título no celular?",
+        "id": 21,
+        "ajudou": "s",
+        "encontrou": true,
+        "tempo": 3.8
+    },
+    {
+        "data": "2026-11-15",
+        "origem": "Urna, Regras e Pós-Eleição",
+        "pergunta": "Tenho 16 anos e não fui votar. Sou obrigado a justificar?",
+        "id": 14,
+        "ajudou": "s",
+        "encontrou": true,
+        "tempo": 1.4
+    },
+    {
+        "data": "2026-11-15",
+        "origem": "Preparação e Dia da Votação",
+        "pergunta": "Quais documentos eu preciso levar no dia da eleição?",
+        "id": 7,
+        "ajudou": "s",
+        "encontrou": true,
+        "tempo": 2.5
+    },
+    {
+        "data": "2026-11-15",
+        "origem": "Preparação e Dia da Votação",
+        "pergunta": "Posso entrar na cabine de votação com o telefone celular?",
+        "id": 9,
+        "ajudou": "s",
+        "encontrou": true,
+        "tempo": 2.8
+    },
+    {
+        "data": "2026-11-15",
+        "origem": "Preparação e Dia da Votação",
+        "pergunta": "Como faço para descobrir qual é o meu local de votação?",
+        "id": 24,
+        "ajudou": "s",
+        "encontrou": true,
+        "tempo": 3.5
+    },
+    {
+        "data": "2026-11-15",
+        "origem": "Urna, Regras e Pós-Eleição",
+        "pergunta": "O voto em branco ou nulo anula a eleição se passar de 50%?",
+        "id": 22,
+        "ajudou": "s",
+        "encontrou": true,
+        "tempo": 3.6
+    },
+    {
+        "data": "2026-11-15",
+        "origem": "Preparação e Dia da Votação",
+        "pergunta": "Posso ir votar usando a camisa ou adesivo do meu candidato?",
+        "id": 25,
+        "ajudou": "s",
+        "encontrou": true,
+        "tempo": 5.9
+    },
+    {
+        "data": "2026-11-15",
+        "origem": "Cadastro e Título de Eleitor",
+        "pergunta": "Onde eu consigo ver as propostas e o que cada candidato defende?",
+        "id": 27,
+        "ajudou": "s",
+        "encontrou": true,
+        "tempo": 1.7
+    }
+]

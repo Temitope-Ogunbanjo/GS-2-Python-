@@ -1,0 +1,11 @@
+data,origem,pergunta,id,ajudou,encontrou,tempo
+2026-11-15,Cadastro e Título de Eleitor,Com quantos anos posso tirar o título de eleitor?,1,s,True,7.6
+2026-11-15,Cadastro e Título de Eleitor,Como faço para tirar o primeiro título pela internet?,2,s,True,2.6
+2026-11-15,Preparação e Dia da Votação,Posso votar usando apenas o aplicativo e-Título no celular?,21,s,True,3.8
+2026-11-15,"Urna, Regras e Pós-Eleição",Tenho 16 anos e não fui votar. Sou obrigado a justificar?,14,s,True,1.4
+2026-11-15,Preparação e Dia da Votação,Quais documentos eu preciso levar no dia da eleição?,7,s,True,2.5
+2026-11-15,Preparação e Dia da Votação,Posso entrar na cabine de votação com o telefone celular?,9,s,True,2.8
+2026-11-15,Preparação e Dia da Votação,Como faço para descobrir qual é o meu local de votação?,24,s,True,3.5
+2026-11-15,"Urna, Regras e Pós-Eleição",O voto em branco ou nulo anula a eleição se passar de 50%?,22,s,True,3.6
+2026-11-15,Preparação e Dia da Votação,Posso ir votar usando a camisa ou adesivo do meu candidato?,25,s,True,5.9
+2026-11-15,Cadastro e Título de Eleitor,Onde eu consigo ver as propostas e o que cada candidato defende?,27,s,True,1.7
