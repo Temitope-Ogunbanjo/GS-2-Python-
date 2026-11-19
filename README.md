@@ -90,6 +90,7 @@ Durante os testes práticos com usuários reais, percebemos que perguntas formul
 
 ## 🎥 Vídeo Técnico
 
-* **Link da apresentação no YouTube:** `[INSERIR LINK DO YOUTUBE AQUI]`
+* **[Link da apresentação no YouTube:](https://youtu.be/j4EPtx1S1kc?si=ZJKNI2d8w6B8e3L1)** 
+
 
 
